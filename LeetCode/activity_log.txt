@@ -1,0 +1,23 @@
+12/16/2019:
+    EASY:
+        remove_duplicates.py
+        valid_parenthesis.py
+        strstr.py
+        count_and_say.py
+        roman_to_integer.py
+    MEDIUM:
+        integer_to_roman.py
+        3sum.py
+        no_repeats_please.py
+    HARD:
+        None
+
+
+12/19/2019:
+    EASY:
+        longest_common_prefix.py
+        merge_two_sorted_lists.py
+        remove_element.py
+    MEDIUM:
+
+    HARD:
